@@ -71,7 +71,6 @@ export const MainButtons = ({ setProgress, setResult, progress, result }) => {
           0
         </button>
         <button
-          style={{ backgroundColor: "rgb(0,200,150)" }}
           onClick={GetResult}
           className="span3"
         >

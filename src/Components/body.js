@@ -7,7 +7,7 @@ export const Body = ({setProgress , setResult , progress , result}) => {
   }
   return (
     <div className="Calculator-body">
-      <div className="controllers">
+      <div className="Clear">
         <div className="row-1">
           <button onClick={Clear}>Clear</button>
         </div>
